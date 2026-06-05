@@ -32,7 +32,7 @@ On apprend *quand* les cyanobactéries prolifèrent (chaleur + saison) sur beauc
 ## La cible (binaire)
 
 `severity` va de 1 à 5. On la **binarise** pour la régression logistique :
-- ex. `severity >= 3` → `1` (« bloom marqué »), sinon `0`.
+- ex. `severity >= 4` → `1` (« bloom marqué »), sinon `0`.
 - Le choix du seuil doit être justifié dans le rapport (et vous pouvez tester sa sensibilité).
 
 Le modèle sort alors une **probabilité de bloom marqué** entre 0 et 1.
