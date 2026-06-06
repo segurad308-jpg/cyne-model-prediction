@@ -5,7 +5,7 @@ Build dataset Greifensee
 import numpy as np
 import pandas as pd
 
-INPUT    = "data/raw/Greifensee_forecasting_deep_learning/ctd_meteo_SPC_2019to2021_0to8m.csv"
+INPUT    = "data/raw/ctd_meteo_SPC_2019to2021_0to8m.csv"
 OUTPUT   = "data/processed/dataset.csv"
 QUANTILE = 0.75 
 
