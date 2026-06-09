@@ -1,4 +1,4 @@
-# Cyanobacteria Bloom Prediction — Lake Greifensee & Neuchâtel
+# Cyanobacteria Bloom Prediction: Lake Greifensee & Neuchâtel
 
 A machine learning project that predicts the probability of cyanobacteria blooms in Swiss peri-alpine lakes. The model is trained on daily monitoring data from Lake Greifensee (EAWAG) and applied to Lake Neuchâtel via a set of transposable weather features.
 
